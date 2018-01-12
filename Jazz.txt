@@ -8,3 +8,4 @@ Drugs
 Thugs
 Mugs
 Pugs
+Slugs
