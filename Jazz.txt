@@ -17,3 +17,4 @@ Fugs
 Wugs
 Hugs
 Hail Mary!
+Hail Larry!
