@@ -11,3 +11,4 @@ Pugs
 Slugs
 Shrugs
 Plugs
+Tugs
