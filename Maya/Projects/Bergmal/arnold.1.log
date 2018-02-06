@@ -1,0 +1,274 @@
+00:00:00  1021MB WARNING | AiEnd() called when session is not started, ignoring
+00:00:00  1021MB         | log started Tue Jan 30 23:19:20 2018
+00:00:00  1021MB         | Arnold 4.2.14.0 windows icc-14.0.2 oiio-1.5.24 rlm-12.0.2 2016/06/13 16:40:20
+00:00:00  1021MB         | host application: MtoA 1.3.0.0 593812c381d7+ (RB-1.3.0) tip Maya 2017
+00:00:00  1021MB         | running on DESKTOP-6QVJ524, pid=7608
+00:00:00  1021MB         |  1 x Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz (4 cores, 4 logical) with 16317MB
+00:00:00  1021MB         |  Windows 8 (version 6.2, build 9200)
+00:00:00  1021MB         |  
+00:00:00  1021MB         | loading plugin: C:/solidangle/mtoadeploy/2017/shaders/mtoa_shaders.dll ...
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaMultiplyDivide uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaClamp uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaGammaCorrect uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaCondition uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaReverse uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaBlendColors uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaSamplerInfo1D uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaSamplerInfo2D uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaPlusMinusAverage1D uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaPlusMinusAverage2D uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaPlusMinusAverage3D uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaRemapValueToValue uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaRemapValueToColor uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaRemapColor uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaFile uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaPlace2DTexture uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaRamp uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaProjection uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MeshInfo uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaChecker uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaBulge uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaCloth uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaGrid uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaFractal uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaNoise uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaPlace3DTexture uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaRgbToHsv uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaHsvToRgb uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaLuminance uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaCloud uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaCloudAlpha uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaSnow uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaContrast uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaLayeredTexture uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaLayeredShader uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaSolidFractal uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaVolumeNoise uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaBrownian uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaStucco uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaRemapHsv uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaSetRange uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaImagePlane uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaSurfaceShader uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: colorToFloat uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: vectorToFloat uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: pointToFloat uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: point2ToFloat uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: writeColor uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: aovWriteColor uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: writeFloat uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: aovWriteFloat uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaEnvSphere uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: anim_matrix uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: anim_float uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: anim_point uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: anim_vector uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: anim_color uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: userDataFloat uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: userDataVector uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: userDataColor uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: userDataString uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaShadingEngine uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: MayaSamplerInfo3D uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: aovWriteVector uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: aovWritePoint uses Arnold 4.2.14.0
+00:00:00  1021MB         |  mtoa_shaders.dll: aovWritePoint2 uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: MayaNormalDisplacement uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: MayaVectorDisplacement uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: userDataBool uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: shadowCatcher uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: MayaHair uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: meshLightMaterial uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: userDataPnt2 uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: userDataInt uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: mayaBump2D uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: mayaFluid uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: mayaMarble uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: mayaMountain uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: mayaWater uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: mayaCrater uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: mayaLeather uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: mayaGranite uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: mayaRock uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: MayaSingleShadingSwitch uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: MayaDoubleShadingSwitch uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: MayaTripleShadingSwitch uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: MayaQuadShadingSwitch uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: MayaFluidData uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: MayaFluidTexture2D uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: skin uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: volume_collector uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: MayaSurfaceLuminance uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: cameraUvMapper uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: volume_sample_float uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: volume_sample_rgb uses Arnold 4.2.14.0
+00:00:00  1022MB         |  mtoa_shaders.dll: driver_mplay uses Arnold 4.2.14.0
+00:00:00  1022MB         | loaded 96 plugins from 1 lib(s) in 0:00.00
+00:00:00  1022MB         | loading plugin: C:/solidangle/mtoadeploy/2017/shaders/bifrost_shaders.dll ...
+00:00:00  1022MB         |  bifrost_shaders.dll: bifrostFoamMaterial uses Arnold 4.2.14.0
+00:00:00  1022MB         |  bifrost_shaders.dll: bifrostAeroMaterial uses Arnold 4.2.14.0
+00:00:00  1022MB         | loaded 2 plugins from 1 lib(s) in 0:00.00
+00:00:00  1022MB         | loading plugin: C:/solidangle/mtoadeploy/2017/shaders/hairPhysicalShader_shaders.dll ...
+00:00:00  1022MB         |  hairPhysicalShader_shaders.dll: HairPhysicalShaderDiffuseColorAdapter uses Arnold 4.2.14.0
+00:00:00  1022MB         |  hairPhysicalShader_shaders.dll: HairPhysicalShaderSpecularWeightAdapter uses Arnold 4.2.14.0
+00:00:00  1022MB         |  hairPhysicalShader_shaders.dll: HairPhysicalShaderSpecularGlossAdapter uses Arnold 4.2.14.0
+00:00:00  1022MB         |  hairPhysicalShader_shaders.dll: HairPhysicalShaderTransmissionWeightAdapter uses Arnold 4.2.14.0
+00:00:00  1022MB         |  hairPhysicalShader_shaders.dll: HairPhysicalShaderTransmissionSpreadAdapter uses Arnold 4.2.14.0
+00:00:00  1022MB         | loaded 5 plugins from 1 lib(s) in 0:00.00
+00:00:00  1022MB         | loading plugin: C:/solidangle/mtoadeploy/2017/shaders/lookdevkit_shaders.dll ...
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkFloatConstant uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkFloatComposite uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkFloatCondition uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkFloatCorrect uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkFloatLogic uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkFloatMask uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkFloatMath uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkColorComposite uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkColorCondition uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkColorConstant uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkColorCorrect uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkColorLogic uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkColorMask uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkColorMath uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkChannels uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkPremultiply uses Arnold 4.2.14.0
+00:00:00  1022MB         |  lookdevkit_shaders.dll: ldkSimplexNoise uses Arnold 4.2.14.0
+00:00:00  1022MB         | loaded 17 plugins from 1 lib(s) in 0:00.00
+00:00:00  1022MB         | loading plugin: C:/solidangle/mtoadeploy/2017/shaders/xgenSpline_shaders.dll ...
+00:00:00  1022MB         |  xgenSpline_shaders.dll: XGenHairMapping uses Arnold 4.2.14.0
+00:00:00  1022MB         | loaded 1 plugins from 1 lib(s) in 0:00.00
+00:00:00  1023MB         |  
+00:00:00  1038MB         |  
+00:00:00  1038MB         | there are 1 light and 4 objects:
+00:00:00  1038MB         |       1 persp_camera
+00:00:00  1038MB         |       1 point_light
+00:00:00  1038MB         |       1 utility
+00:00:00  1038MB         |       1 lambert
+00:00:00  1038MB         |       1 standard
+00:00:00  1038MB         |       1 driver_exr
+00:00:00  1038MB         |       1 gaussian_filter
+00:00:00  1038MB         |       3 polymesh
+00:00:00  1038MB         |       1 list_aggregate
+00:00:00  1038MB         |       2 MayaShadingEngine
+00:00:00  1038MB         |       1 renderview_display
+00:00:00  1038MB         |  
+00:00:00  1038MB         | rendering image at 960 x 540, 3 AA samples
+00:00:00  1038MB         |   AA sample clamp   <disabled>
+00:00:00  1038MB         |   diffuse           samples  2 / depth  1
+00:00:00  1038MB         |   glossy            samples  2 / depth  1
+00:00:00  1038MB         |   reflection        samples  1 / depth  2
+00:00:00  1038MB         |   refraction        samples  2 / depth  2
+00:00:00  1038MB         |   volume indirect   <disabled by depth>
+00:00:00  1038MB         |   total                          depth 10
+00:00:00  1038MB         |   bssrdf            samples  2
+00:00:00  1038MB         |   single scatter    samples  5
+00:00:00  1038MB         |   transparency      depth 10 / threshold 0.99 / fast opacity on
+00:00:00  1038MB         |  initializing 15 nodes ...
+00:00:00  1038MB         |   creating root object list ...
+00:00:00  1038MB         |   no objects
+00:00:00  1038MB         |  node initialization done in 0:00.00 (single-threaded)
+00:00:00  1038MB         |  updating 16 nodes ...
+00:00:00  1038MB         |   pointLightShape1: point_light using 1 sample, 2 volume samples
+00:00:00  1038MB         |  node update done in 0:00.00 (single-threaded)
+00:00:00  1038MB         |  [aov] registered driver: "defaultArnoldDriver@driver_exr.RGBA" (driver_exr)
+00:00:00  1038MB         |  [aov]  * "RGBA" of type RGBA filtered by "defaultArnoldFilter@gaussian_filter" (gaussian_filter)
+00:00:00  1038MB         |  [aov] registered driver: "defaultArnoldDisplayDriver@renderview_display" (renderview_display)
+00:00:00  1038MB         |  [aov]  * "RGBA" of type RGBA filtered by "defaultArnoldFilter@gaussian_filter" (gaussian_filter)
+00:00:00  1038MB         |  [aov] done preparing 1 AOV for 2 outputs to 2 drivers (0 deep AOVs)
+00:00:00  1046MB         |  starting 4 bucket workers of size 64x64 ...
+00:00:00  1053MB         |     0% done - 47 rays/pixel
+00:00:00  1053MB         |     5% done - 46 rays/pixel
+00:00:00  1053MB         |    10% done - 44 rays/pixel
+00:00:00  1054MB         |    15% done - 43 rays/pixel
+00:00:00  1054MB         |    20% done - 43 rays/pixel
+00:00:00  1054MB         |    25% done - 24 rays/pixel
+00:00:00  1054MB         |    30% done - 29 rays/pixel
+00:00:01  1054MB         |    35% done - 44 rays/pixel
+00:00:01  1054MB         |    40% done - 44 rays/pixel
+00:00:01  1054MB         |    45% done - 21 rays/pixel
+00:00:01  1054MB         |    50% done - 12 rays/pixel
+00:00:01  1054MB         |    55% done - 39 rays/pixel
+00:00:01  1054MB         |    60% done - 39 rays/pixel
+00:00:01  1054MB         |    65% done - 11 rays/pixel
+00:00:01  1054MB         |    70% done - 28 rays/pixel
+00:00:01  1054MB         |    75% done - 44 rays/pixel
+00:00:01  1054MB         |    80% done - 13 rays/pixel
+00:00:02  1054MB         |    85% done - 37 rays/pixel
+00:00:02  1054MB         |    90% done - 36 rays/pixel
+00:00:02  1054MB         |    95% done - 36 rays/pixel
+00:00:02  1054MB         |   100% done - 16 rays/pixel
+00:00:02  1048MB         |  bucket workers done in 0:02.25
+00:00:02  1048MB         |  [driver_exr] writing file `C:/Users/Jared Hutchinson/Documents/maya/projects/default/images/tmp/Bergmal2.exr'
+00:00:02  1040MB         | render done
+00:00:02  1040MB         |  
+00:00:02  1040MB         | -----------------------------------------------------------------------------------
+00:00:02  1040MB         | scene creation time:
+00:00:02  1040MB         |  plugin loading               0:00.00
+00:00:02  1040MB         |  unaccounted                  0:00.01
+00:00:02  1040MB         |  total                        0:00.02  (19.12% machine utilization)
+00:00:02  1040MB         | -----------------------------------------------------------------------------------
+00:00:02  1040MB         | render time:                  (multi-threaded render, values may not be reliable)
+00:00:02  1040MB         |  node init                    0:00.00
+00:00:02  1040MB         |   sanity checks               0:00.00
+00:00:02  1040MB         |  driver init/close            0:00.06
+00:00:02  1040MB         |  bucket rendering             0:02.25
+00:00:02  1040MB         |   mesh processing             0:00.00
+00:00:02  1040MB         |   accel. building             0:00.00
+00:00:02  1040MB         |   pixel rendering             0:02.24
+00:00:02  1040MB         |  total                        0:02.32  (86.06% machine utilization)
+00:00:02  1040MB         | -----------------------------------------------------------------------------------
+00:00:02  1040MB         | memory consumed in MB:
+00:00:02  1040MB         |  at startup              1020.63
+00:00:02  1040MB         |  plugins                    1.27
+00:00:02  1040MB         |  AOV samples                3.89
+00:00:02  1040MB         |  output buffers             8.41
+00:00:02  1040MB         |  node overhead              0.01
+00:00:02  1040MB         |  message passing            0.01
+00:00:02  1040MB         |  memory pools              17.07
+00:00:02  1040MB         |  geometry                   0.12
+00:00:02  1040MB         |    polymesh                 0.12
+00:00:02  1040MB         |  accel. structs             0.13
+00:00:02  1040MB         |  strings                    0.18
+00:00:02  1040MB         |  texture cache              0.00
+00:00:02  1040MB         |  unaccounted                2.33
+00:00:02  1040MB         |  total peak              1054.04
+00:00:02  1040MB         | -----------------------------------------------------------------------------------
+00:00:02  1040MB         | ray counts:                      ( /pixel, /sample) (% total) (avg. hits) (max hits)
+00:00:02  1040MB         |  camera                  4808160 (   8.70,    1.00) ( 26.25%) (     0.69) (       1)
+00:00:02  1040MB         |  diffuse                13271407 (  24.02,    2.76) ( 72.45%) (     0.03) (       1)
+00:00:02  1040MB         |  glossy                   238724 (   0.43,    0.05) (  1.30%) (     0.48) (       1)
+00:00:02  1040MB         |  total                  18318291 (  33.16,    3.81) (100.00%) (     0.21) (       1)
+00:00:02  1040MB         | by ray depth:              0     1     2
+00:00:02  1040MB         |  total                   26.2% 73.4%  0.4% 
+00:00:02  1040MB         | -----------------------------------------------------------------------------------
+00:00:02  1040MB         | shader calls                     (  /pixel,  /sample) (% total)
+00:00:02  1040MB         |  primary                 7530354 (   13.63,     1.57) (100.00%)
+00:00:02  1040MB         |  total                   7530354 (   13.63,     1.57) (100.00%)
+00:00:02  1040MB         | by ray depth:              0     1     2
+00:00:02  1040MB         |  total                   87.8% 11.7%  0.5% 
+00:00:02  1040MB         | -----------------------------------------------------------------------------------
+00:00:02  1040MB         | geometry:                        (% hit ) (instances) (  init mem,  final mem)
+00:00:02  1040MB         |  lists                         1 (100.0%) (        0) (      0.00,       0.00)
+00:00:02  1040MB         |  polymeshes                    3 (100.0%) (        0) (      0.19,       0.12)
+00:00:02  1040MB         | -----------------------------------------------------------------------------------
+00:00:02  1040MB         | geometric elements:              (      min) (       avg.) (      max)
+00:00:02  1040MB         |  polygons                   3170 (        6) (     1056.7) (     2016)
+00:00:02  1040MB         | -----------------------------------------------------------------------------------
+00:00:02  1040MB         | triangle tessellation:           (      min) (       avg.) (      max) (/ element) (% total)
+00:00:02  1040MB         |  polymeshes                 6860 (       12) (     2286.7) (     4032) (     2.16) (100.00%)
+00:00:02  1040MB         |  unique triangles           6860
+00:00:02  1040MB         |  memory use (in MB)         0.12
+00:00:02  1040MB         |   vertices                  0.04
+00:00:02  1040MB         |   vertex indices            0.02
+00:00:02  1040MB         |   packed normals            0.01
+00:00:02  1040MB         |   normal indices            0.02
+00:00:02  1040MB         |   uv coords                 0.01
+00:00:02  1040MB         |   uv coords idxs            0.02
+00:00:02  1040MB         |  largest polymeshes by triangle count:
+00:00:02  1040MB         |        4032 tris -- pasted__EchoShape
+00:00:02  1040MB         |        2816 tris -- polySurface1Shape
+00:00:02  1040MB         |          12 tris -- pCubeShape1
+00:00:02  1040MB         | -----------------------------------------------------------------------------------
+00:00:02  1040MB         |  
+00:00:02  1040MB         | releasing resources
+00:00:02  1022MB         | Arnold shutdown
